@@ -19,7 +19,7 @@ module.exports = {
     rules: [
       {
         test: /\.entry\.js$/,
-        loader: ['bundle-loader'],
+        loader: ['mock-loader'],
         options: {
           config: {
             './root/to/path/entry.js': './root/to/mock/*.js'
