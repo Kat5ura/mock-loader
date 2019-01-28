@@ -7,7 +7,7 @@ Mock loader for webpack
 
 ```bash
 # 目前还没发布
-tnpm i mock-loader --save-dev
+npm i mock-loader --save-dev
 ```
 
 ## Usage
